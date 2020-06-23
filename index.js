@@ -8,7 +8,13 @@ module.exports = {
 			{
 				'selector': 'enumMember',
 				'format': [
-					'PascalCase'
+					'PascalCase', 'StrictPascalCase', 'UPPER_CASE'
+				]
+			},
+			{
+				'selector': 'enum',
+				'format': [
+					'PascalCase', 'StrictPascalCase'
 				]
 			}
 		]
