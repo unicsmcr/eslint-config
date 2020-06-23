@@ -1,6 +1,6 @@
 {
   "name": "@unicsmcr/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A common ESLint shareable config for UniCS projects",
   "main": "index.js",
   "dependencies": {
